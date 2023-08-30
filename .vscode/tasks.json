@@ -7,7 +7,7 @@
       "type": "process",
       "args": [
         "build",
-        "${workspaceFolder}/dotnet-booklist-api.csproj",
+        "${workspaceFolder}/api/dotnet-booklist-api.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -19,7 +19,7 @@
       "type": "process",
       "args": [
         "publish",
-        "${workspaceFolder}/dotnet-booklist-api.csproj",
+        "${workspaceFolder}/api/dotnet-booklist-api.csproj",
         "/property:GenerateFullPaths=true",
         "/consoleloggerparameters:NoSummary"
       ],
@@ -33,7 +33,7 @@
         "watch",
         "run",
         "--project",
-        "${workspaceFolder}/dotnet-booklist-api.csproj"
+        "${workspaceFolder}/api/dotnet-booklist-api.csproj"
       ],
       "problemMatcher": "$msCompile"
     }

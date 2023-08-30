@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjcHdzE79ED9tkHeHXKL88KPUxT+sslC8+FXWXHFHXk5ZIUcCnf3IhyQFf1Yo7j4/aK02cYJOqBehaI1rw2r/A==",
+  "dgSpecHash": "TlyGVpBHrpkSxj/wo2Pf+HxFwiYZFyYvB8KYAktECwmv3MxRZazK8bdu8Ry9PZYmrFFmojAlnkAtUIeDoErCMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\dotnet-booklist-api.csproj",
+  "projectFilePath": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\api\\dotnet-booklist-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\h26el\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\h26el\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
