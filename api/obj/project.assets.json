@@ -5931,11 +5931,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\dotnet-booklist-api.csproj",
+      "projectUniqueName": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\api\\dotnet-booklist-api.csproj",
       "projectName": "dotnet-booklist-api",
-      "projectPath": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\dotnet-booklist-api.csproj",
+      "projectPath": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\api\\dotnet-booklist-api.csproj",
       "packagesPath": "C:\\Users\\h26el\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\obj\\",
+      "outputPath": "C:\\Users\\h26el\\Desktop\\dotnet-booklist-api\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\h26el\\AppData\\Roaming\\NuGet\\NuGet.Config"
