@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4iMqFnKZtft3rm5ZOLU6YukmWwTijwhXAGFqxFoU4Vg=",
+  "Source": "dotnet-booklist-api",
+  "BasePath": "_content/dotnet-booklist-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

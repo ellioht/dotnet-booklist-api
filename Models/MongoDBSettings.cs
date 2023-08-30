@@ -1,4 +1,4 @@
-namespace MongoBookAPI.Models;
+namespace Booklist.Settings;
 
 public class MongoDBSettings
 {
