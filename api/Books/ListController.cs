@@ -21,4 +21,11 @@ public class BooklistController : ControllerBase
   {
     return _booklistService.Get();
   }
+
+  [HttpGet("test")]
+  public ActionResult<string> TestGet()
+  {
+    return "Hello World";
+  }
+
 }
