@@ -25,6 +25,7 @@ public class BooklistService
 
   public List<Book> Get()
   {
+    Console.WriteLine("Getting all books");
     return _booklist.Find(book => true).ToList();
   }
 }

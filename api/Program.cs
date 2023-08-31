@@ -28,12 +28,6 @@ builder.Services.AddCors(options =>
 
 var app = builder.Build();
 
-// Log a message to the console when the API starts
-app.Run(async context =>
-{
-  Console.WriteLine("API started");
-  await Task.CompletedTask;
-});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -51,4 +45,3 @@ app.UseAuthorization();
 app.MapControllers();
 
 app.Run();
-
