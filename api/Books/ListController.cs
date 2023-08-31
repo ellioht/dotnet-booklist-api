@@ -17,5 +17,8 @@ public class BooklistController : ControllerBase
   }
 
   [HttpGet]
-  public ActionResult<List<Book>> Get() => _booklistService.Get();
+  public ActionResult<List<Book>> Get()
+  {
+    return _booklistService.Get();
+  }
 }
